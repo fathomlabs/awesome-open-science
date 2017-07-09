@@ -4,23 +4,36 @@
 
 ## Table of Contents
 
-- [Funding](https://github.com/treblesteph/awesome-open-science#funding)
+- [Communities](https://github.com/treblesteph/awesome-open-science#communities)
+- [Training](https://github.com/treblesteph/awesome-open-science#training)
 - [Conferences](https://github.com/treblesteph/awesome-open-science#conferences)
 - [Tools](https://github.com/treblesteph/awesome-open-science#tools)
 - [Publishers](https://github.com/treblesteph/awesome-open-science#publishers)
-- [Communities](https://github.com/treblesteph/awesome-open-science#communities)
 - [Projects](https://github.com/treblesteph/awesome-open-science#projects)
 - [Repositories](https://github.com/treblesteph/awesome-open-science#repositories)
-- [Training](https://github.com/treblesteph/awesome-open-science#training)
+- [Funding](https://github.com/treblesteph/awesome-open-science#funders)
+  - [Project grants](https://github.com/treblesteph/awesome-open-science#project-grants)
+  - [Fellowships](https://github.com/treblesteph/awesome-open-science#fellowships)
+  - [General Open Science funders](https://github.com/treblesteph/awesome-open-science#general-open-science-funders)
 - [Licence](https://github.com/treblesteph/awesome-open-science#licence)
 
-## Funding
+## Communities
 
-- [Open Science Prize](https://www.openscienceprize.org/) - aims to unleash the power of open content and data to advance biomedical research and its application for health benefit.
-- [ContentMine Fellowships](http://contentmine.org/fellows) - liberate scientific facts from academic journals and help to enable anyone to perform research using content mining.
-- [Panton Fellowships](https://pantonprinciples.org/panton-fellowships/) - researchers who actively promote open data in all areas of science and research.
-- [Knight-Mozilla Open News](https://opennews.org/what/fellowships/info/) - for people who love to code and want to influence the future of journalism on the web.
+- [Mozilla Science Lab](https://science.mozilla.org/) - making research open and accessible.
+- [Open Knowledge Foundation](https://okfn.org/about/) - international network realising the value of open data.
+- [ROpenSci](https://ropensci.org/) - access data repositories from the R statistical programming environment.
+- [Berlin Open Science Meetup](https://www.meetup.com/Berlin-Open-Science-Meetup/)
+- [BioJulia](https://gitter.im/BioJulia/home) - bioinformatics and computational biology in the Julia language.
+- [Jupyter](http://jupyter.org/) - interactive data and scientific computing.
+- [ContentMine](http://contentmine.org/) - mine facts collaboratively, taking advantage of the Hargreaves Exception.
 
+## Training
+
+- [Mozilla Science Lab](https://science.mozilla.org) - has a [resources](section) with training materials for key open science project skills, and organises a global community of [open science study groups](https://science.mozilla.org/programs/studygroups).
+- [Data Carpentry](http://www.datacarpentry.org/) - building communities and teaching universal data literacy.
+- [Software Carpentry](https://software-carpentry.org/) - teaching basic lab skills for research computing.
+- [Open Science: an Introduction](http://www.bitss.org/events/open-science-an-introduction-catalyst-short-course/) - develop the perspective, knowledge, and skills to make research more open.
+- [Foster Open Science](https://www.fosteropenscience.eu/about) - training resources for those who need to know more about Open Science.
 
 ## Conferences
 
@@ -43,7 +56,7 @@
 
 - [World Brain](https://worldbrain.io/) - create, search, and share your personal web of knowledge.
 - [SciHub](https://sci-hub.cc/) - the first website in the world to provide mass and public access to research papers.
-- [Quickscrape](https://github.com/ContentMine/quickscrape) - a simple command-line tool for powerful, modern website scraping.
+- [ScienceFair](http://sciencefair-app.com/) - open source, p2p desktop science library.
 - [Getpapers](https://github.com/ContentMine/getpapers) - get metadata, fulltexts or fulltext URLs of papers matching a search query.
 - [Open Retractions](http://openretractions.com/) - check for retraction notices of any journal article.
 - [Authorea](https://www.authorea.com/) - write, cite, collaborate, host data, and publish all in one place.
@@ -52,7 +65,6 @@
 - [Zotero](https://www.zotero.org/) - a personal research assisstent within your browser.
 - [Hypothes.is](https://hypothes.is/) - annoate the web: discuss, collaborate, organise your research.
 - [Open Knowledge Maps](https://openknowledgemaps.org/) - visualise a research topic.
-- [Scholar Ninja](https://github.com/ScholarNinja) - an open, distributed search engine for science.
 - [Open Access Button](https://openaccessbutton.org/) - avoid paywalls, access data.
 - [Impact Story](https://impactstory.org/) - track the online impact of your research.
 - [Open retractions](http://openretractions.com/) - check for retraction notices from any journal.
@@ -70,17 +82,6 @@
 - [PLOS](https://www.plos.org/) - nonprofit publisher, innovator and advocacy organisation.
 - [Royal Society Open Science](http://rsos.royalsocietypublishing.org/) - fast, open journal covering all of science, maths, and engineering.
 
-## Communities
-
-- [Mozilla Science Lab](https://science.mozilla.org/) - making research open and accessible.
-- [Berlin Open Science Meetup](https://www.meetup.com/Berlin-Open-Science-Meetup/)
-- [BioJulia](https://gitter.im/BioJulia/home) - bioinformatics and computational biology in the Julia language.
-- [Jupyter](http://jupyter.org/) - interactive data and scientific computing.
-- [ContentMine](http://contentmine.org/) - mine facts collaboratively, taking advantage of the Hargreaves Exception.
-- [Open Knowledge Foundation](https://okfn.org/about/) - international network realising the value of open data.
-- [ROpenSci](https://ropensci.org/) - access data repositories from the R statistical programming environment.
-
-
 ## Projects
 
 - [Zooniverse](https://www.zooniverse.org/about) - the world’s largest and most popular platform for people-powered research.
@@ -94,7 +95,6 @@
 - [Bionode](http://www.bionode.io/) - modular and universal bioinformatics.
 - [EFF](https://www.eff.org/about) - nonprofit organisation defending civil liberties in the digital world.
 - [PubPeer](https://pubpeer.com/) - online journal club.
-- [Digital Science](https://www.digital-science.com/) - working with researchers, institutions, publishers, and funders to increase efficiency and productivity.
 - [Open Citations](http://opencitations.net/) - making citation links easy and free to traverse.
 
 ## Repositories
@@ -108,15 +108,29 @@
 - [Academic Torrents](http://academictorrents.com/) - community maintained distributed repository for datasets and scientific knowledge.
 - [Open Science Framework](https://osf.io/) - a scholarly commons to connect the entire research cycle.
 
-## Training
+## Funding
 
-- [Data Carpentry](http://www.datacarpentry.org/) - building communities and teaching universal data literacy.
-- [Software Carpentry](https://software-carpentry.org/) - teaching basic lab skills for research computing.
-- [Open Science: an Introduction](http://www.bitss.org/events/open-science-an-introduction-catalyst-short-course/) - develop the perspective, knowledge, and skills to make research more open.
-- [Foster Open Science](https://www.fosteropenscience.eu/about) - training resources for those who need to know more about Open Science.
+### Project grants
+
+- [Shuttlworth Flast Grants](https://www.shuttleworthfoundation.org/fellows/flash-grants/) USD $5k, no strings attached one-off grants. Not restricted to science, must be recommended by a Shuttleworth fellow.
+- [OpenPlant project grants](https://www.openplant.org/fund/) GBP £5k (4k up front, 1k on completion) for projects related to open plant synthetic biology.
+
+### Fellowships
+
+- [Mozilla Science Fellowship](https://science.mozilla.org/programs/fellowships) - supports champions of open science/data with a stipend ($60k + travel expenses + childcare, healthcare + equipment budgets) for 10 months. Must be based at a research institution.
+- [rOpenSci Fellowship](https://ropensci.org/blog/blog/2017/07/06/ropensci-fellowships) - $30-$50k for personnel and travel to be spend within a year of award, plus addition travel budget to attend rOpenSci conference. Must be based at a research institution.
+- [Shuttleworth Fellowship](https://www.shuttleworthfoundation.org/fellows/) - for social innovators who are helping to change the world for the better and could benefit from a social investment model. Not specific to open science, but has included many fellows working on open science projects. Includes full time salary at pre-fellowship rate and a 10x project investment multiplier (Shuttleworth invests another $10 in the project for every $1 the fellow invests).
+- [ContentMine Fellowship](http://contentmine.org/fellows) - funding and mentorship to complete specific focused projects that involve text and data mining of the scientific literature.
+
+### General open science funders
+
+- [Open Science Prize](https://www.openscienceprize.org/) - aims to unleash the power of open content and data to advance biomedical research and its application for health benefit.
+- [Arnold foundation](http://www.arnoldfoundation.org/initiative/research-integrity/) - has a research integrity initiative which includes many open science projects in its scope.
+- [Sloan foundation](https://sloan.org/programs/digital-technology) - has a digital information program which includes data and computational science, and research communication tracks. Includes many open science projects.
+- [Moore foundation](https://www.moore.org/programs/science) - has a science program which includes Data Driven Discovery focus that funds many open science related projects and individual researchers, and a separate [special projects](https://www.moore.org/initiative-strategy-detail?initiativeId=special-projects) program that can fund exceptional projects outside the remit of other programs.
+
 
 ## Licence
-
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
