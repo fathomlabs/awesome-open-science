@@ -96,6 +96,7 @@
 - [EFF](https://www.eff.org/about) - nonprofit organisation defending civil liberties in the digital world.
 - [PubPeer](https://pubpeer.com/) - online journal club.
 - [Open Citations](http://opencitations.net/) - making citation links easy and free to traverse.
+- [Curate Science](http://curatescience.org/) - platform to quantify the internal and external trustworthiness of empirical research.
 
 ## Repositories
 
